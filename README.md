@@ -6,7 +6,7 @@
 
 ## Ссылка на опубликованный проект
 
-GitHub Pages: https://username.github.io/kr1-html-css-shop/
+GitHub Pages: https://zeyluwu.github.io/kr1-html-css-shop/
 
 ## Описание
 
